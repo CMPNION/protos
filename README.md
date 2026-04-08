@@ -16,9 +16,9 @@ protos/
 
 - Each service has its own folder (e.g., `user/`)
 - Versioned subfolders (e.g., `v1/`) for API versioning
-- `go_package` notation: `github.com/YourGitHubUserName/protos/<service>/<version>;<service_version>`
+- `go_package` notation: `github.com/CMPNION/protos/<service>/<version>;<service_version>`
 
 ## Usage
 
 These proto files are automatically compiled into Go code using the generator repository.
-The generated files are published to: `github.com/YourGitHubUserName/proto-generated-go`
+The generated files are published to: `github.com/CMPNION/proto-generated-go`

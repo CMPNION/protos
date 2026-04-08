@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package user.v1;
 
-option go_package = "github.com/YourGitHubUserName/protos/user/v1;userv1";
+option go_package = "github.com/CMPNION/protos/user/v1;userv1";
 
 // UserService defines the RPC methods for user operations
 service UserService {
